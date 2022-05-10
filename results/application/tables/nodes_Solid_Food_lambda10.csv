@@ -1,0 +1,11 @@
+"","node","taxon_in_common","taxa_on_left","taxa_on_right","alpha_hat"
+"1",16,"Bacteria","Firmicutes","Bacteroidetes",1.48392852555353
+"2",17,"Firmicutes","Clostridia","Bacilli, Erysipelotrichi",1.16101612958628
+"3",18,"Clostridiales","Lachnospiraceae, Veillonellaceae, Ruminococcaceae","unclassified, Clostridiaceae",-1.46184735234114
+"4",19,"Clostridiales","Lachnospiraceae, Veillonellaceae","Ruminococcaceae",2.00734640553663
+"5",20,"Clostridiales","Lachnospiraceae","Veillonellaceae",-1.90404024316686
+"6",22,"Blautia","292735","3926480, 177515, 3393191, 316732, 4457427, 4436046",-2.50620755805487
+"7",40,"[Ruminococcus]","170462","182289, 4425669",-2.93755927725818
+"8",42,"Veillonellaceae","Dialister, Phascolarctobacterium","Megasphaera, Veillonella",-3.94478990016484
+"9",66,"Streptococcus","4442130, 4425214","1033413",-3.03382256332541
+"10",70,"Bacteroidales","Bacteroidaceae, Prevotellaceae, Porphyromonadaceae","Rikenellaceae",2.00846536378087
