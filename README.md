@@ -6,5 +6,6 @@ The folder "src" contains the source code.
 - src/data: code for data processing.
 - src/simulation: code for numerical examples in the paper (section 3).
 - src/application: code for case study in the paper (section 4).
-- src/run.sh: workflow.
+
+The file "run.sh" demonstrates the workflow. The numerical examples were run on a computing cluster with SLURM job scheduler.
 
