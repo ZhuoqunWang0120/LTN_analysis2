@@ -3,8 +3,8 @@ This repository contains all datasets and source code needed to reproduce the si
 The folder "res" contains the raw data.
 
 The folder "src" contains the source code. 
-- src/data: code for data processing
-- src/simulation: code for numerical examples in the paper (section 3). The numerical examples were run on a computing cluster. 
-- src/application: code for case study in the paper (section 4)
-
+- src/data: code for data processing.
+- src/simulation: code for numerical examples in the paper (section 3).
+- src/application: code for case study in the paper (section 4).
+- src/run.sh: workflow.
 
