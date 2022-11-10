@@ -12,7 +12,7 @@ $WORK_DIR/src/data/process_data_simulation.R $WORK_DIR 100
 
 # simulation: covariance estimation
 
-$WORK_DIR/src/simulation/covariance_estimation/dtm_data_clrcov.R $WORK_DIR 1000000
+$WORK_DIR/src/simulation/covariance_estimation/dtm_data_clrcov.R $WORK_DIR 1000000 100
 sbatch $WORK_DIR/src/slurm/dtm_sim.q
 sbatch $WORK_DIR/src/slurm/ln_sim1.q
 sbatch $WORK_DIR/src/slurm/ln_sim2.q
